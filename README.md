@@ -1,1 +1,1 @@
-# remote_repo
+This file is created in GitHub
